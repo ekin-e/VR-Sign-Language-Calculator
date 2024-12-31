@@ -15,3 +15,11 @@ those focused on accessibility and/or immersive design.
 
 # Video Demo
 [![VR Locomotion](https://img.youtube.com/vi/wTGRC_c2WRg/0.jpg)](https://www.youtube.com/watch?v=wTGRC_c2WRg)
+
+# Contributions
+- Configured XR Hands gestures
+- Configured environment for XR Hand tracking and gesture detection
+- Debugged errors in the program
+- Designed and programmed user input detection
+- Implemented buttons for calculator operations
+- Wrote the abstract, review of previous work, methodology, evaluation, and contributions sections in the final report 
